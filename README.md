@@ -11,6 +11,8 @@ springmvc框架写的简单helloword
     </servlet-mapping>  
 那么就要创建一个dispatcher-servlet.xml的文件，配置完dispatcher-servlet.xml之后就控制器了，也就是java代码。
 最后创建视图就完成啦。
+<br>
+其实spring的xml配置文件和spring的xml配置文件，完全是同一个东西，可以写在一个xml里。但这里写了两个xml的文件，我以前也是不懂spring，在瞎写！
 
 我参考的详细的页面：
 
